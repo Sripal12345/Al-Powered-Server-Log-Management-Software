@@ -1,0 +1,10 @@
+how can i simply inherit methods from an existing instance ?
+how do you check in linux with python if a process is still running ?
+how do i generate a histogram for a given probability distribution ( for functional testing a server )?
+how to I open the web browser message when python2 ?
+google app engine : how can i programmatically access the properties of my model class ?
+how do i use django templates without the rest of django ?
+how do i create a non - standard type with soappy ?
+what is wrong with my snap to grid code ?
+how to list all functions in a python module ?
+what is the naming convention in python for variable and function names ?
